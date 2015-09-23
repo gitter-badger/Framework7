@@ -5,6 +5,8 @@
 Framework7
 ==========
 
+[![Join the chat at https://gitter.im/GitHubIndonesia/Framework7](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/GitHubIndonesia/Framework7?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Full Featured Mobile HTML Framework For Building iOS Apps
 
 ## Getting Started
